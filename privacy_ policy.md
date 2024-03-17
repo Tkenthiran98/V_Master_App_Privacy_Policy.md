@@ -40,6 +40,20 @@ This Services do not address anyone under the age of 13. We do not knowingly col
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
+### Account Deletion Request
+
+If you wish to delete your account and associated data from our app, please follow these steps:
+
+1. Send an email to tvjk2016@gmail.com with the subject line "Account Deletion Request".
+2. In the body of the email, please provide the following details:
+   - Your username or email associated with the account.
+   - Any additional information that can help us identify your account.
+3. Once we receive your email, we will process your request within 7-10 business days.
+4. You will receive a confirmation email once your account and associated data have been successfully deleted.
+
+Please note that some data may be retained for legal or regulatory compliance purposes, as outlined in our Privacy Policy.
+
+
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
